@@ -1,5 +1,5 @@
 Mindora Technologies is a consultancy founded by three partners committed to innovation and excellence. We help businesses and entrepreneurs navigate digital transformation through custom solutions that blend creativity with deep technical expertise.
-Our services include:
+Our services include:\n
 • Frontend & Backend Development
 • AI Solutions
 • VR/AR/XR Experiences
